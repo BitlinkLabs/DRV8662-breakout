@@ -5,7 +5,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Light" src="media/top.jpg" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="media/diagnoal_2.jpg" width="25%">
+  <img alt="Dark" src="media/diagonal_1.jpg" width="25%">
 </p>
 
 ### What is it?
