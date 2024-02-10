@@ -19,7 +19,7 @@ At the output you can connect a piezo actuator for haptic feedback or valves & p
 The output voltage is an AC Waveform with an adjustable Peak-to-Peak voltage.
 
 ### What is special about it?
-The Output voltage can be to 4 approximate value: 50Vpp, 100Vpp, 150Vpp, 200Vpp using a simple dip switch.
+The Output voltage can be to 4 approximate values: 50Vpp, 100Vpp, 150Vpp, 200Vpp using a simple dip switch.
 
 ### How do I get started?
 All you need to do is connect an PWM and GND pin of a microcontroller to the PWM+ Pin and GND pin of the development board respectively. This covers the “signal” part.
