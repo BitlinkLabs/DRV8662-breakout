@@ -1,11 +1,11 @@
 # DRV8662-breakout
 
 <p align="center">
-  <img alt="Light" src="media/diagnoal_2.jpg" width="25%">
+  <img alt="Light" src="media/diagnoal_2.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="media/top.jpg" width="25%">
+  <img alt="Light" src="media/back.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="media/diagonal_1.jpg" width="25%">
+  <img alt="Dark" src="media/diagonal_1.png" width="30%">
 </p>
 
 ### What is it?
